@@ -1,0 +1,27 @@
+location
+(-0.0333375, 139.494674)
+(-0.043171, -110.65118)
+(9.996544, -119.35544)
+
+
+{
+  transaction_id: "1011",
+  transaction_time: "2026-09-11T16:50",
+  customer_id: "101",
+  merchant_id: "501",
+  account_age_days: "365",
+  credit_score_band: "Good",
+  kyc_level: "Full",
+  avg_monthly_spend: "25000",
+  merchant_risk_score: "0.25",
+  transaction_amount: "500",
+  payment_channel: "UPI",
+  device_type: "Android",
+  is_international: "No",
+  ip_risk_score: "0.12",
+  txn_count_1h: "2",
+  txn_count_24h: "8",
+  failed_txn_count_24h: "0",
+  geo_distance_from_last_txn: "1.5",
+  amount_deviation_from_user_mean: "0.15"
+}
